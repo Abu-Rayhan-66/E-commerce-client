@@ -1,9 +1,10 @@
+import Navbar from "../components/navbar/Navbar";
 
 
 export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-     <h2>Welcome to my e-commerce site </h2>
+   <Navbar/>
     </div>
   );
 }
