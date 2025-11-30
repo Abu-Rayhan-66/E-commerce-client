@@ -1,5 +1,13 @@
+import { useState } from "react";
 
 const Footer = () => {
+
+    const [email, setEmail] = useState("")
+
+    const handleNewsletterSubmit =()=>{
+        
+    }
+
     return (
         <div>
              <footer className="bg-gray-900 text-gray-300">

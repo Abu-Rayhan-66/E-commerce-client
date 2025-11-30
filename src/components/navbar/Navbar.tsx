@@ -5,7 +5,7 @@ const Navbar = () => {
 
     return (
         <div>
-         <nav className="w-full h-[40px] bg-white text-black flex items-center justify-between px-4 shadow">
+         <nav className="w-full h-10 bg-white text-black flex items-center justify-between px-4 shadow">
       {/* Logo */}
       <div className="font-semibold text-lg">MyBrand</div>
 
@@ -14,7 +14,7 @@ const Navbar = () => {
         <input
           type="text"
           placeholder="Search..."
-          className="w-full max-w-sm h-[28px] px-3 border border-gray-300 rounded focus:outline-none"
+          className="w-full max-w-sm h-7 px-3 border border-gray-300 rounded focus:outline-none"
         />
       </div>
 
