@@ -19,7 +19,7 @@ const Footer = () => {
             <h3 className="text-white text-2xl font-bold mb-4">ShopNow</h3>
             <p className="text-gray-400 mb-4">
               Your one-stop destination for quality products at unbeatable prices. 
-              Shop with confidence and enjoy fast, free shipping.
+              Shop with confidence and enjoy fast, free shipping and exciting offers.
             </p>
             
             {/* Social Media Links */}
