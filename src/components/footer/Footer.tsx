@@ -70,6 +70,7 @@ const Footer = () => {
               <li><a href="#" className="hover:text-indigo-400 transition">Track Order</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">FAQ</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Report a complain</a></li>
+              <li><a href="#" className="hover:text-indigo-400 transition">Agent Help</a></li>
             </ul>
           </div>
 
