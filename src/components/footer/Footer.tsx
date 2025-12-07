@@ -119,7 +119,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             {/* Copyright */}
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © 2025 ShopNow. All rights reserved.
+              © 2025 | All rights reserved.
             </p>
 
             {/* Payment Methods */}
