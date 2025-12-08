@@ -34,6 +34,9 @@ const Navbar = () => {
         <button className="px-3 py-1 border border-black rounded text-sm">
           Best Deal
         </button>
+        <button className="px-3 py-1 border border-black rounded text-sm">
+          Contact Us
+        </button>
       </div>
     </nav>
         </div>
