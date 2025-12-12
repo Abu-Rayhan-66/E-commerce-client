@@ -41,6 +41,9 @@ const Navbar = () => {
           Report Problem
         </button>
         <button className="px-3 py-1 border border-black rounded text-sm">
+          Fast Shipping
+        </button>
+        <button className="px-3 py-1 border border-black rounded text-sm">
           Login
         </button>
       </div>
