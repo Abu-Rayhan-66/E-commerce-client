@@ -44,6 +44,9 @@ const Navbar = () => {
           Fast Shipping
         </button>
         <button className="px-3 py-1 border border-black rounded text-sm">
+          Return policy
+        </button>
+        <button className="px-3 py-1 border border-black rounded text-sm">
           Login
         </button>
       </div>
