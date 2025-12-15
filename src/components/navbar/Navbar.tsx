@@ -20,14 +20,6 @@ const Navbar = () => {
 
       {/* Right Menu */}
       <div className="flex items-center gap-3">
-        <button className="px-3 py-1 bg-black text-white rounded text-sm">
-          Login
-        </button>
-
-        <button className="px-3 py-1 bg-black text-white rounded text-sm">
-          Signup
-        </button>
-
         <button className="px-3 py-1 border border-black rounded text-sm">
           Help & Support
         </button>
@@ -48,6 +40,9 @@ const Navbar = () => {
         </button>
         <button className="px-3 py-1 border border-black rounded text-sm">
           Terms and conditions
+        </button>
+        <button className="px-3 py-1 border border-black rounded text-sm">
+          Deal of the day
         </button>
         <button className="px-3 py-1 border border-black rounded text-sm">
           Login
