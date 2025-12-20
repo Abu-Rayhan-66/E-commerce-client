@@ -53,12 +53,12 @@ const Footer = () => {
             <ul className="space-y-2">
               <li><a href="#" className="hover:text-indigo-400 transition">New Arrivals</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Best Sellers</a></li>
-              <li><a href="#" className="hover:text-indigo-400 transition">Sale</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Collections</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Gift Cards</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Trending</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Up coming</a></li>
-              <li><a href="#" className="hover:text-indigo-400 transition">Limited stock</a></li>
+              <li><a href="#" className="hover:text-indigo-400 transition">Sale</a></li>
+        
             </ul>
           </div>
 
