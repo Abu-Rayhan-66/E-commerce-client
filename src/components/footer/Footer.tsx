@@ -52,11 +52,8 @@ const Footer = () => {
             <h4 className="text-white font-semibold mb-4">Shop</h4>
             <ul className="space-y-2">
               <li><a href="#" className="hover:text-indigo-400 transition">Premium Collection</a></li>
-              <li><a href="#" className="hover:text-indigo-400 transition">Fast delivery</a></li>
-              <li><a href="#" className="hover:text-indigo-400 transition">Sale</a></li>
-              <li><a href="#" className="hover:text-indigo-400 transition">Trending</a></li>
-              <li><a href="#" className="hover:text-indigo-400 transition">Best Selling</a></li>
-              <li><a href="#" className="hover:text-indigo-400 transition">Up Coming</a></li>
+              <li><a href="#" className="hover:text-indigo-400 transition">New Arrival</a></li>
+              
         
             </ul>
           </div>
