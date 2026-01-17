@@ -55,6 +55,7 @@ const Footer = () => {
               <li><a href="#" className="hover:text-indigo-400 transition">Up Coming</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Trending</a></li>
               <li><a href="#" className="hover:text-indigo-400 transition">Best Seller</a></li>
+              <li><a href="#" className="hover:text-indigo-400 transition">Best Category</a></li>
           
 
               
